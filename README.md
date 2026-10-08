@@ -11,12 +11,8 @@ Dental clinic management web application.
 
 ## Tech Stack
 
-Web
+React.js tailwindcss vite
 
-## Features
-
-- Appointment booking
-- Patient management
 
 ## Getting Started
 
