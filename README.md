@@ -1,32 +1,46 @@
-# React + Vite + Tailwind Starter 🚀
+# dental-clinic
 
-A minimal starter template for building React apps with **Vite** and **TailwindCSS**. Perfect for quickly spinning up projects without worrying about setup.  
+> Dental clinic vitrine web application.
 
----
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+## Overview
+
+Dental clinic management web application.
+
+## Tech Stack
+
+Web
 
 ## Features
 
-- ✅ React 
-- ✅ Vite bundler (super fast!)
-- ✅ TailwindCSS for styling
-- ✅ Minimal and ready-to-use
-- ✅ Dark mode support out of the box
-
----
+- Appointment booking
+- Patient management
 
 ## Getting Started
 
-### 1. Clone the repo
+### Prerequisites
+
+Make sure you have the tools required for this stack installed (e.g. Python 3.10+, Node.js 18+, or Android Studio).
+
+### Installation & Usage
 
 ```bash
-git clone https://github.com/yourusername/react-vite-tailwind-starter.git
-cd react-vite-tailwind-skeleton
-2. Install dependencies
+git clone https://github.com/<your-username>/dental-clinic.git
+cd dental-clinic
 npm install
-3. Start development server
-npm run dev
-Open http://localhost:5173 in your browser.
+npm run dev     # or `npm start`, depending on the setup
 ```
 
-Build for Production
-npm run build
+## Contributing
+
+Contributions are welcome. Fork the repo, create a feature branch, and open a pull request.
+
+## License
+
+Distributed under the MIT License (change as needed).
+
+## Author
+
+**Louai**: [GitHub](https://github.com/<louals>)
